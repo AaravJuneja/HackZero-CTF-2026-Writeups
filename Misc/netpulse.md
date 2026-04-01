@@ -387,6 +387,8 @@ rtt min/avg/max/mdev = 0.013/0.019/0.024/0.004 ms
 HackZero{c5ce165f3393bd0bfafab77bd8ac8569}
 ```
 
+> After the CTF, I realised that there is already a tool to extract nuitka compiled Python executables so um I did not HAVE to reverse the loader and stuff myself and I could just use `https://github.com/extremecoders-re/nuitka-extractor` but that does not sound as fun :P
+
 ## Flag
 
 `HackZero{c5ce165f3393bd0bfafab77bd8ac8569}`
